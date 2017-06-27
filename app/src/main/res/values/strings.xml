@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySpinner</string>
+    <string-array name="cities">
+        <item>Kampala</item>
+        <item>Nairobi</item>
+        <item>Darelslam</item>
+        <item>Kigali</item>
+        <item>Bujumbura</item>
+    </string-array>
+</resources>
